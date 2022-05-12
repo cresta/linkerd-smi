@@ -3,9 +3,9 @@ entries:
   linkerd-smi:
   - apiVersion: v1
     appVersion: v0.2.0
-    created: "2021-12-23T18:42:54.910499548Z"
+    created: "2022-05-12T03:46:44.206694687Z"
     description: 'The Linkerd-SMI extension adds SMI adaptor to the Linkerd install '
-    digest: 8a74f35d262367f9fa33552bdb7bbea9b8546ea2212c6c1efedd9a522ed32193
+    digest: 2d7950c00f23494bfdfae23a9aed4271ee8a2e99c4f743da6a768358edb6e01e
     home: https://linkerd.io
     icon: https://linkerd.io/images/logo-only-200h.png
     keywords:
@@ -41,4 +41,4 @@ entries:
     urls:
     - linkerd-smi-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-23T18:42:54.909767901Z"
+generated: "2022-05-12T03:46:44.206076883Z"
